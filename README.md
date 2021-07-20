@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @BautyJr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Hacer directos con nuevos amigos
+- 🌱 I’m currently learning ... Estoy jugando con personas nuevas ayudo con diamantes
+- 💞️ I’m looking to collaborate on ... Y me gustaría jugar con Tigo y con muchos mas
 - 📫 How to reach me ...
-
-<!---
-BautyJr/BautyJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ https://github.com/BautyJr/BautyJr.git
